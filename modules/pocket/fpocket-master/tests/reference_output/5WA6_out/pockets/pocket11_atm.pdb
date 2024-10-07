@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0757
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5521
+HEADER 5  - Mean B-factor of pocket residues  : 0.7700
+HEADER 6  - Hydrophobicity Score              : 42.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.4239
+HEADER 10 - Pocket volume (convex hull)       : 1.2731
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM    964    O GLU A 141     499.635 193.880 573.701  0.75  4.29           O 0
+ATOM    960   CB ILE A 138     496.535 192.278 568.391  0.00  0.00           C 0
+ATOM    942   CB ALA A 135     492.219 191.858 571.149  0.00  0.00           C 0
+ATOM    995  CD1 ILE A 145     493.811 195.386 569.795  0.00  0.00           C 0
+ATOM    958    C ILE A 138     497.608 190.346 569.603  0.00  0.00           C 0
+ATOM    941    O ALA A 135     494.399 189.795 570.122  0.30  6.43           O 0
+ATOM    974    O THR A 143     497.677 197.517 570.807  0.58  4.29           O 0
+ATOM    963    C GLU A 141     500.205 193.683 572.629  0.00  0.00           C 0
+ATOM    962   CA GLU A 141     499.982 192.392 571.851  0.00  0.00           C 0
+ATOM    961    N GLU A 141     499.944 192.640 570.414  0.47  4.37           N 0
+ATOM   1086  OG1 THR A 157     493.459 198.301 572.978  0.62  2.14           O 0
+ATOM   1087  CG2 THR A 157     494.631 198.879 575.015  0.00  0.00           C 0
+ATOM    918   OH TYR A 131     491.769 196.390 573.581  0.29  8.57           O 0
+TER
+END

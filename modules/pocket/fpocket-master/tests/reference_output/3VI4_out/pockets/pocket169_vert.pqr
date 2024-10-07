@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   169:
+HEADER 0  - Pocket Score                      : -0.1046
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9939
+HEADER 4  - Mean alpha-sphere SA              : 0.4538
+HEADER 5  - Mean B-factor                     : 0.3277
+HEADER 6  - Hydrophobicity Score              : 26.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Volume Score                      : 3.5000
+HEADER 9  - Real volume (approximation)       : 168.5482
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 6.0000
+HEADER 12 - Number of apolar alpha sphere     :     7
+HEADER 13 - Proportion of apolar alpha sphere : 0.4118
+ATOM      1    O STP   169     -42.839 -76.242  34.308    0.00     4.08
+ATOM      2    O STP   169     -42.604 -76.657  35.749    0.00     3.53
+ATOM      3    C STP   169     -43.284 -75.688  34.303    0.00     3.66
+ATOM      4    O STP   169     -42.681 -76.285  33.723    0.00     4.13
+ATOM      5    O STP   169     -42.212 -76.228  33.086    0.00     4.16
+ATOM      6    C STP   169     -42.623 -76.450  33.320    0.00     4.17
+ATOM      7    O STP   169     -42.756 -76.741  35.556    0.00     3.59
+ATOM      8    C STP   169     -42.726 -76.951  32.989    0.00     4.15
+ATOM      9    C STP   169     -42.710 -76.945  32.993    0.00     4.16
+ATOM     10    C STP   169     -42.714 -76.934  33.005    0.00     4.16
+ATOM     11    C STP   169     -42.892 -76.333  34.371    0.00     4.05
+ATOM     12    O STP   169     -42.056 -75.803  35.281    0.00     3.71
+ATOM     13    O STP   169     -42.025 -75.900  35.558    0.00     3.62
+ATOM     14    C STP   169     -41.919 -75.485  32.433    0.00     3.72
+ATOM     15    O STP   169     -41.314 -76.041  32.322    0.00     4.32
+ATOM     16    O STP   169     -41.130 -75.986  32.265    0.00     4.33
+ATOM     17    O STP   169     -41.216 -76.133  32.144    0.00     4.36
+TER
+END
